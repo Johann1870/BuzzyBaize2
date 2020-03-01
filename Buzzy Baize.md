@@ -1,27 +1,30 @@
 # 1.15.2 Modding Project (Buzzy Brocade)
 
 -- begun: 18 Jan 2020
+
 -- last updated: 29 Feb 2020
 
 -- by: ArahirXVII
 
 *This project is built on Fabric using MultiMC.*
 
+**`Fabric`** `0.7.8+build.184`
+
 **Purpose**: I wanted to add some mods to 1.15.2
+
+#### Useful Seeds
 
 `4605881693702610778`
 
 `-8666948920454124715` climatic. plains village spawn.
 
-**`Fabric`** `0.7.8+build.184`
-
 ## ToDo
-
 - [ ] Is Trident Fixer needed with Aquarius?
 
 ### To test
 |Name|Purpose|Component|Version|Status|
 |-|-|-|-|
+|[Extra Bows](https://www.curseforge.com/minecraft/mc-mods/extra-bows/files) |Upgradeable Bows, arrows|Archery|1.15.2 Fabric b2|
 |[]() ||||
 
 ## Mods
@@ -46,6 +49,7 @@
 |[Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse/files) |13 new biomes mostly vanilla+ in nature|biomes|2.1.9+build.17|
 |[Terrestria](https://www.curseforge.com/minecraft/mc-mods/terrestria/files) |12 more mods|biomes|1.2.1+build.29|
 |[Climatic World Type](https://www.curseforge.com/minecraft/mc-mods/climatic-world-type/files) |places biomes based on climatic features|biomes, worldgen|1.1.4|
+|[Wild World](https://www.curseforge.com/minecraft/mc-mods/wild-world/files) |||1.2.0+1.15|
 
 ### Utilities
 
@@ -77,6 +81,8 @@
 |[Epicurean](https://www.curseforge.com/minecraft/mc-mods/epicurean/files) |||2.2.4+1.15.2|
 |[Experience Container](https://www.curseforge.com/minecraft/mc-mods/experience-container/files) |box for xp||1.5|
 |[Fabriblocks](https://www.curseforge.com/minecraft/mc-mods/fabriblocks/files) |building blocks||1.1.7|
+|[Redstone Bits](https://www.curseforge.com/minecraft/mc-mods/redstone-bits/files) |Placer, Breaker, Checker blocks|Redstone|1.2.2|
+|[Uncraft Me](https://www.curseforge.com/minecraft/mc-mods/uncraft-me/files) |uncraft Netherwart and Quartz blocks||0.1|
 
 ### Enchanting
 
