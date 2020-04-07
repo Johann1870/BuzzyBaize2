@@ -21,12 +21,6 @@
 ## ToDo
 - [ ] Is Trident Fixer needed with Aquarius?
 
-### To test
-|Name|Purpose|Component|Version|Status|
-|-|-|-|-|
-|[]() ||||
-|[]() ||||
-
 ## Mods
 
 ### Core
@@ -49,7 +43,8 @@
 |[Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse/files) |13 new biomes mostly vanilla+ in nature|biomes|2.1.9+build.17|
 |[Terrestria](https://www.curseforge.com/minecraft/mc-mods/terrestria/files) |12 more mods|biomes|1.2.1+build.29|
 |[Climatic World Type](https://www.curseforge.com/minecraft/mc-mods/climatic-world-type/files) |places biomes based on climatic features|biomes, worldgen|1.1.4|
-|[Wild World](https://www.curseforge.com/minecraft/mc-mods/wild-world/files) |||1.2.0+1.15|
+|[Wild World](https://www.curseforge.com/minecraft/mc-mods/wild-world/files) |stalagmites, skulls, mushrooms, icicles, leafpiles, wild crops||1.2.0+1.15|
+|[BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether/files) |lots of content to Nether|nether worldgen|2.5.1|
 
 ### Utilities
 
@@ -84,6 +79,11 @@
 |[Uncraft Me](https://www.curseforge.com/minecraft/mc-mods/uncraft-me/files) |uncraft Netherwart and Quartz blocks||0.1|
 |[Extra Bows](https://www.curseforge.com/minecraft/mc-mods/extra-bows/files) |Upgradeable Bows, arrows|Archery|1.15.2 Fabric b2|
 |[Easy Feeding (Easy Feed and Breed)](https://www.curseforge.com/minecraft/mc-mods/easy-feed/files) |Breeding|Allows breeding of animals by throwing food on the ground|1.0.0|
+|[Building Wands](https://www.curseforge.com/minecraft/mc-mods/building-wands/files) |builder's wands|building|1.0.9|
+|[Clipboards](https://www.curseforge.com/minecraft/mc-mods/clipboards/files) |notes and todo lists|writing|1.0.0+1.15.2|crash sometimes on multiple pages|
+|[Roughly Enough Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources/files) |oregen charts in REI|inventory|1.3.2|
+|[Fabric Controlling](https://www.curseforge.com/minecraft/mc-mods/fabric-controlling/files) |search bar for keybinds|keybinds controls|1.0.3|
+|[WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit/files) |world editor|world edit|7.1.0|
 
 ### Enchanting
 
