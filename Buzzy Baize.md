@@ -26,7 +26,6 @@
 |-|-|-|-|
 |[]() ||||
 |[]() ||||
-|[]() ||||
 
 ## Mods
 
@@ -84,6 +83,7 @@
 |[Redstone Bits](https://www.curseforge.com/minecraft/mc-mods/redstone-bits/files) |Placer, Breaker, Checker blocks|Redstone|1.2.2|
 |[Uncraft Me](https://www.curseforge.com/minecraft/mc-mods/uncraft-me/files) |uncraft Netherwart and Quartz blocks||0.1|
 |[Extra Bows](https://www.curseforge.com/minecraft/mc-mods/extra-bows/files) |Upgradeable Bows, arrows|Archery|1.15.2 Fabric b2|
+|[Easy Feeding (Easy Feed and Breed)](https://www.curseforge.com/minecraft/mc-mods/easy-feed/files) |Breeding|Allows breeding of animals by throwing food on the ground|1.0.0|
 
 ### Enchanting
 
