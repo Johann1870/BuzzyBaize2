@@ -84,6 +84,8 @@
 |[Roughly Enough Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources/files) |oregen charts in REI|inventory|1.3.2|
 |[Fabric Controlling](https://www.curseforge.com/minecraft/mc-mods/fabric-controlling/files) |search bar for keybinds|keybinds controls|1.0.3|
 |[WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit/files) |world editor|world edit|7.1.0|
+|[Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu/files) |mod menu|mod list|1.10.2|
+
 
 ### Enchanting
 
