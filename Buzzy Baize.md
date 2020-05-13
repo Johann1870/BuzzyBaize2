@@ -24,16 +24,16 @@
 ## Mods
 
 ### Core
-|Name|Purpose|Component|Version|Dependencies|Server/Client|
-|-|-|-|-|-|-|
+|Name|Purpose|Component|Version|Dependencies|Dependents|Server/Client|
+|-|-|-|-|-|-|-|
 |[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files) |||0.4.32+build.292-1.15|
-|[Cotton](https://www.curseforge.com/minecraft/mc-mods/cotton/files) |||1.0.2|
-|[nbt Crafting](https://www.curseforge.com/minecraft/mc-mods/nbt-crafting/files) |required for Simply Enchanted||1.2.14+1.15.1|
+|[Cotton](https://www.curseforge.com/minecraft/mc-mods/cotton/files) |||1.0.2||Epicurean, Toolbuilder||
+|[nbt Crafting](https://www.curseforge.com/minecraft/mc-mods/nbt-crafting/files) |required for Simply Enchanted||1.2.14+1.15.1|Fabric API, REI||server,optional on client|
 |[Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore/files) |for tech reborn||1.15-4.2.3+build.99|
-|[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files) |library||1.15.2-0.10.0-dev.20+arne.2|
-|[Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor/files) |huge improvements to tick speed, chunk loading due to lighting improvements||0.3.6|
-|[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files) |performance server and client||0.3.2|
-|[Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files) |||1.3.61 build 2|
+|[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files) |library||1.15.2-0.10.0-dev.20+arne.2|||client|
+|[Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor/files) |huge improvements to tick speed, chunk loading due to lighting improvements||0.3.6|||client optional, server optional|
+|[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files) |performance server and client||0.3.2|||client optional, server optional|
+|[Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files) |||1.3.61 build 2||Clipboards, Stockpile||
 |[TooManyCrashes](https://www.curseforge.com/minecraft/mc-mods/toomanycrashes/files) |Crash Reporting||1.0|
 
 
